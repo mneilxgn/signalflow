@@ -16,3 +16,4 @@ frontend/.claude/
 # Misc
 .DS_Store
 *.log
+.vercel
